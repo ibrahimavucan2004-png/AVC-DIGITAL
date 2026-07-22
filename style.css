@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AVC Digital</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>AVC Digital</h1>
+<p>Solutions digitales modernes pour développer vos projets</p>
+</header>
+
+<nav>
+<a href="#services">Services</a>
+<a href="#about">À propos</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+<h2>Bienvenue chez AVC Digital</h2>
+<p>
+Création de sites web, solutions numériques et accompagnement
+pour donner vie à vos idées.
+</p>
+<button>Découvrir nos services</button>
+</section>
+
+<section id="services">
+<h2>Nos services</h2>
+
+<div class="cards">
+<div class="card">
+<h3>Création de site web</h3>
+<p>Des sites modernes adaptés aux entreprises et commerces.</p>
+</div>
+
+<div class="card">
+<h3>Design digital</h3>
+<p>Logos, visuels et contenus pour votre image de marque.</p>
+</div>
+
+<div class="card">
+<h3>Solutions numériques</h3>
+<p>Des outils pour améliorer votre présence en ligne.</p>
+</div>
+</div>
+</section>
+
+<section id="about">
+<h2>À propos</h2>
+<p>
+AVC Digital accompagne les professionnels et particuliers
+dans leurs projets numériques.
+</p>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email : contact@avcdigital.fr</p>
+</section>
+
+<footer>
+<p>© 2026 AVC Digital - Tous droits réservés</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
